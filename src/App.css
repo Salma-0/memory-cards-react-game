@@ -1,15 +1,23 @@
 .container {
-  overflow: scroll;
   position: absolute;
+  overflow: hidden;
   top: 0;
   left: 20px;
   right: 20px;
   bottom: 0;
   padding: 16px;
   border: 10px solid #000;
+  align-items: center;
+}
+
+.cards-container {
+  position: fixed;
+  overflow: scroll;
+  height: 700px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  padding: 16px;
 }
 
 
@@ -55,4 +63,9 @@
 
 .win-label {
   text-align: center;
+}
+
+.container h1 {
+  text-align: center;
+  color: #40af40
 }

@@ -41,9 +41,11 @@ export default function(){
         tempCards[curr].open = true
         let oc = openCards
         if(tempCards[curr].image === tempCards[lastFlipped]?.image){
-            tempCards[lastFlipped].open = true
-            setOpenCards(openCards+2)
-            oc = oc+2
+            if(!tempCards[lastFlipped].open){
+                tempCards[lastFlipped].open = true
+                setOpenCards(openCards+2)
+                oc += 2 
+            }     
         }else{
             setTimeout(()=> {tempCards[curr].open = false}, 800)
         }
@@ -51,8 +53,6 @@ export default function(){
         setCards(tempCards)
         return oc;
     }
-
-
 
    
     return { 
