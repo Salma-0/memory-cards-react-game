@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/memory-cards-react-game/static/css/main.e7055cc2.chunk.css",
-    "main.js": "/memory-cards-react-game/static/js/main.5403b5f1.chunk.js",
-    "main.js.map": "/memory-cards-react-game/static/js/main.5403b5f1.chunk.js.map",
+    "main.css": "/memory-cards-react-game/static/css/main.39126416.chunk.css",
+    "main.js": "/memory-cards-react-game/static/js/main.e2fac123.chunk.js",
+    "main.js.map": "/memory-cards-react-game/static/js/main.e2fac123.chunk.js.map",
     "runtime-main.js": "/memory-cards-react-game/static/js/runtime-main.4a792488.js",
     "runtime-main.js.map": "/memory-cards-react-game/static/js/runtime-main.4a792488.js.map",
     "static/js/2.4d7ff742.chunk.js": "/memory-cards-react-game/static/js/2.4d7ff742.chunk.js",
     "static/js/2.4d7ff742.chunk.js.map": "/memory-cards-react-game/static/js/2.4d7ff742.chunk.js.map",
     "index.html": "/memory-cards-react-game/index.html",
-    "precache-manifest.680dfe1996af5e3818892eedef525b5f.js": "/memory-cards-react-game/precache-manifest.680dfe1996af5e3818892eedef525b5f.js",
+    "precache-manifest.1ef8203aff0e78146b950454c37bf28b.js": "/memory-cards-react-game/precache-manifest.1ef8203aff0e78146b950454c37bf28b.js",
     "service-worker.js": "/memory-cards-react-game/service-worker.js",
-    "static/css/main.e7055cc2.chunk.css.map": "/memory-cards-react-game/static/css/main.e7055cc2.chunk.css.map",
+    "static/css/main.39126416.chunk.css.map": "/memory-cards-react-game/static/css/main.39126416.chunk.css.map",
     "static/js/2.4d7ff742.chunk.js.LICENSE.txt": "/memory-cards-react-game/static/js/2.4d7ff742.chunk.js.LICENSE.txt",
     "static/media/questionicon.png": "/memory-cards-react-game/static/media/questionicon.cae81e62.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4a792488.js",
     "static/js/2.4d7ff742.chunk.js",
-    "static/css/main.e7055cc2.chunk.css",
-    "static/js/main.5403b5f1.chunk.js"
+    "static/css/main.39126416.chunk.css",
+    "static/js/main.e2fac123.chunk.js"
   ]
 }
