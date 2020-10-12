@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memory-cards-react-game/static/css/main.4e31eefd.chunk.css",
+    "main.js": "/memory-cards-react-game/static/js/main.dde16355.chunk.js",
+    "main.js.map": "/memory-cards-react-game/static/js/main.dde16355.chunk.js.map",
+    "runtime-main.js": "/memory-cards-react-game/static/js/runtime-main.4a792488.js",
+    "runtime-main.js.map": "/memory-cards-react-game/static/js/runtime-main.4a792488.js.map",
+    "static/js/2.c6de1266.chunk.js": "/memory-cards-react-game/static/js/2.c6de1266.chunk.js",
+    "static/js/2.c6de1266.chunk.js.map": "/memory-cards-react-game/static/js/2.c6de1266.chunk.js.map",
+    "index.html": "/memory-cards-react-game/index.html",
+    "precache-manifest.6ee141b472ef590907326a5f556318b3.js": "/memory-cards-react-game/precache-manifest.6ee141b472ef590907326a5f556318b3.js",
+    "service-worker.js": "/memory-cards-react-game/service-worker.js",
+    "static/css/main.4e31eefd.chunk.css.map": "/memory-cards-react-game/static/css/main.4e31eefd.chunk.css.map",
+    "static/js/2.c6de1266.chunk.js.LICENSE.txt": "/memory-cards-react-game/static/js/2.c6de1266.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a792488.js",
+    "static/js/2.c6de1266.chunk.js",
+    "static/css/main.4e31eefd.chunk.css",
+    "static/js/main.dde16355.chunk.js"
+  ]
+}
