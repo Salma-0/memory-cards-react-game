@@ -1,6 +1,7 @@
 import React from 'react'
+import icon from './questionicon.png'
 
-const Card = ({card: {image, open, id}, index, onClick}) => {
+const Card = ({card: {image, open}, index, onClick}) => {
 
     return (
         <div className='flip-card' onClick={e => onClick(e, index)}>
@@ -11,7 +12,7 @@ const Card = ({card: {image, open, id}, index, onClick}) => {
                 </div>
                   :
                 <div className='flip-card-back'>
-                    <img src="/icons/questionicon.png" alt="" />
+                    <img src={icon} alt="" />
                 </div>
                 }
             </div>

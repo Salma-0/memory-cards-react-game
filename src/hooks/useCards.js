@@ -21,7 +21,7 @@ function shuffledCards(arr){
 function generateCards(){
     console.log('Being Generated...')
     const cards = []
-    for(let i=1; i<9; i += 2){
+    for(let i=1; i<8; i += 2){
         cards.push({id: i, image: `https://picsum.photos/seed/${i}/150/250`, open: false})
         cards.push({id: i+1, image: `https://picsum.photos/seed/${i}/150/250`, open: false})
     }
