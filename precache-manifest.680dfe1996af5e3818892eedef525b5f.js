@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1735fe6e6545d45aafd3e042fa29146",
+    "revision": "3c2da8f1f713f55d7394baab4f00be0b",
     "url": "/memory-cards-react-game/index.html"
   },
   {
-    "revision": "3c506b3e890948ef83dd",
-    "url": "/memory-cards-react-game/static/css/main.4e31eefd.chunk.css"
+    "revision": "df4fbfdaae8965a2dc74",
+    "url": "/memory-cards-react-game/static/css/main.e7055cc2.chunk.css"
   },
   {
     "revision": "dbc0f6c7414f16908803",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/memory-cards-react-game/static/js/2.4d7ff742.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c506b3e890948ef83dd",
-    "url": "/memory-cards-react-game/static/js/main.d6f28cae.chunk.js"
+    "revision": "df4fbfdaae8965a2dc74",
+    "url": "/memory-cards-react-game/static/js/main.5403b5f1.chunk.js"
   },
   {
     "revision": "7187848636f1ee319d28",
